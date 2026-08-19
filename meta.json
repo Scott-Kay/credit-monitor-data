@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:42:57+00:00",
+  "generated_at": "2026-08-19T09:04:10+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -8,7 +8,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "US_HY_YIELD",
@@ -16,7 +16,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "US_HY_BB_OAS",
@@ -24,7 +24,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-13"
+      "last_date": "2026-08-17"
     },
     {
       "id": "US_HY_B_OAS",
@@ -32,7 +32,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-13"
+      "last_date": "2026-08-17"
     },
     {
       "id": "US_HY_CCC_OAS",
@@ -40,7 +40,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "EU_HY_OAS",
@@ -48,7 +48,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "US_IG_OAS",
@@ -56,7 +56,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_1M",
@@ -64,7 +64,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_3M",
@@ -72,7 +72,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_6M",
@@ -80,7 +80,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_1Y",
@@ -88,7 +88,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_2Y",
@@ -96,7 +96,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_3Y",
@@ -104,7 +104,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_5Y",
@@ -112,7 +112,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_7Y",
@@ -120,7 +120,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_10Y",
@@ -128,7 +128,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-13"
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_20Y",
@@ -136,7 +136,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "UST_30Y",
@@ -144,7 +144,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "NFCI",
@@ -256,7 +256,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-13"
+      "last_date": "2026-08-17"
     },
     {
       "id": "ASIA_EM_CORP_YIELD",
@@ -264,7 +264,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-05"
+      "last_date": "2026-08-17"
     },
     {
       "id": "ASIA_HY_PROXY_YTM",
@@ -521,21 +521,21 @@
       "name": "CCC minus BB quality spread",
       "unit": "percent",
       "panel": "A",
-      "last_date": null
+      "last_date": "2026-08-17"
     },
     {
       "id": "ASIA_US_HY_YIELD_GAP",
       "name": "Asia HY yield minus US HY yield",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "ASIA_US_IG_OAS_GAP",
       "name": "Asia IG minus US IG OAS",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-17"
     },
     {
       "id": "INDONIA_POLICY_SPREAD",
