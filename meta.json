@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:36:09+00:00",
+  "generated_at": "2026-08-19T14:07:17+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -152,7 +152,7 @@
       "unit": "index",
       "cadence": "weekly",
       "panel": "A",
-      "last_date": "2026-08-07"
+      "last_date": "2026-08-14"
     },
     {
       "id": "STLFSI4",
@@ -272,7 +272,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-18"
     },
     {
       "id": "ASIA_CREDIT_PROXY_YTM",
@@ -280,7 +280,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-18"
     },
     {
       "id": "INDOGB_10Y",
@@ -368,7 +368,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-19"
     },
     {
       "id": "SG_SGS_10Y",
@@ -400,7 +400,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "D",
-      "last_date": "2026-08-18"
+      "last_date": "2026-08-19"
     },
     {
       "id": "MULTIFINANCE_NPF_GROSS",
@@ -456,7 +456,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-18"
     },
     {
       "id": "SORA_3M",
@@ -472,7 +472,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-19"
     },
     {
       "id": "USDVND_SPOT",
@@ -528,7 +528,7 @@
       "name": "Asia HY yield minus US HY yield",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-18"
     },
     {
       "id": "ASIA_US_IG_OAS_GAP",
@@ -542,14 +542,14 @@
       "name": "INDONIA overnight minus BI-Rate",
       "unit": "percent",
       "panel": "D",
-      "last_date": "2026-08-18"
+      "last_date": "2026-08-19"
     },
     {
       "id": "IDR_1Y_HEDGE_COST",
       "name": "USD/IDR 1Y annualised hedge cost",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-14"
+      "last_date": "2026-08-19"
     },
     {
       "id": "VND_1Y_HEDGE_COST",
@@ -563,21 +563,28 @@
       "name": "NDF-implied 1Y IDR yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-19"
     },
     {
       "id": "VND_1Y_IMPLIED",
       "name": "NDF-implied 1Y VND yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-18"
     },
     {
       "id": "VND_CIP_WEDGE",
       "name": "VND NDF-implied yield minus onshore 10Y VGB",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-17"
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "ASIA_HY_OVER_CORE",
+      "name": "Asia HY over Asia core credit",
+      "unit": "percent",
+      "panel": "C",
+      "last_date": "2026-08-18"
     }
   ]
 }
