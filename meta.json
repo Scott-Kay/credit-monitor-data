@@ -1,0 +1,583 @@
+{
+  "generated_at": "2026-08-19T08:42:57+00:00",
+  "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
+  "series": [
+    {
+      "id": "US_HY_OAS",
+      "name": "ICE BofA US High Yield Index OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "US_HY_YIELD",
+      "name": "ICE BofA US High Yield Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "US_HY_BB_OAS",
+      "name": "ICE BofA BB US High Yield OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "US_HY_B_OAS",
+      "name": "ICE BofA Single-B US High Yield OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "US_HY_CCC_OAS",
+      "name": "ICE BofA CCC & Lower US High Yield OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "EU_HY_OAS",
+      "name": "ICE BofA Euro High Yield OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "US_IG_OAS",
+      "name": "ICE BofA US Corporate (IG) OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "UST_1M",
+      "name": "US Treasury 1M constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_3M",
+      "name": "US Treasury 3M constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_6M",
+      "name": "US Treasury 6M constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_1Y",
+      "name": "US Treasury 1Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_2Y",
+      "name": "US Treasury 2Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_3Y",
+      "name": "US Treasury 3Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_5Y",
+      "name": "US Treasury 5Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "UST_7Y",
+      "name": "US Treasury 7Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_10Y",
+      "name": "US Treasury 10Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "UST_20Y",
+      "name": "US Treasury 20Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "UST_30Y",
+      "name": "US Treasury 30Y constant maturity",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "NFCI",
+      "name": "Chicago Fed National Financial Conditions Index",
+      "unit": "index",
+      "cadence": "weekly",
+      "panel": "A",
+      "last_date": "2026-08-07"
+    },
+    {
+      "id": "STLFSI4",
+      "name": "St. Louis Fed Financial Stress Index",
+      "unit": "index",
+      "cadence": "weekly",
+      "panel": "A",
+      "last_date": "2026-08-07"
+    },
+    {
+      "id": "LOAN_DEFAULT_LME_INCL",
+      "name": "US leveraged loan default rate, LME-inclusive (issuer count)",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "A",
+      "last_date": "2026-07-31"
+    },
+    {
+      "id": "LOAN_DEFAULT_PAYMENT",
+      "name": "US leveraged loan default rate, payment-only (issuer count)",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "A",
+      "last_date": "2026-07-31"
+    },
+    {
+      "id": "LOAN_DISTRESS_RATIO",
+      "name": "Loan distress ratio (% of index below 80)",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "A",
+      "last_date": "2026-07-31"
+    },
+    {
+      "id": "BDC_PNAV_MEAN",
+      "name": "BDC sector price-to-NAV, mean",
+      "unit": "ratio",
+      "cadence": "weekly",
+      "panel": "B",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "BDC_PNAV_MEDIAN",
+      "name": "BDC sector price-to-NAV, median",
+      "unit": "ratio",
+      "cadence": "weekly",
+      "panel": "B",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "BDC_WAVG_YIELD",
+      "name": "BDC weighted-average portfolio yield, mean",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "B",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "PROSKAUER_DEFAULT_ALL",
+      "name": "Proskauer Private Credit Default Index, all",
+      "unit": "percent",
+      "cadence": "quarterly",
+      "panel": "B",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "PROSKAUER_DEFAULT_25_50M",
+      "name": "Proskauer default rate, $25-50m EBITDA band",
+      "unit": "percent",
+      "cadence": "quarterly",
+      "panel": "B",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "DL_UNITRANCHE_SPREAD_MID",
+      "name": "Direct lending unitranche new-issue spread over SOFR, midpoint",
+      "unit": "bp",
+      "cadence": "quarterly",
+      "panel": "B",
+      "last_date": "2026-03-31"
+    },
+    {
+      "id": "LINCOLN_COV_DEFAULT",
+      "name": "Lincoln covenant default rate",
+      "unit": "percent",
+      "cadence": "quarterly",
+      "panel": "B",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "CDLI_S_TOTAL_RETURN",
+      "name": "Cliffwater Direct Lending Index - Senior, quarterly total return",
+      "unit": "percent",
+      "cadence": "quarterly",
+      "panel": "B",
+      "last_date": null
+    },
+    {
+      "id": "ASIA_EM_CORP_OAS",
+      "name": "ICE BofA Asia EM Corporate Plus Index OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "ASIA_EM_CORP_YIELD",
+      "name": "ICE BofA Asia EM Corporate Plus Index Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-05"
+    },
+    {
+      "id": "ASIA_HY_PROXY_YTM",
+      "name": "Asia HY proxy YTM (iShares O9P)",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "ASIA_CREDIT_PROXY_YTM",
+      "name": "JACI Core proxy YTM (iShares N6M)",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "INDOGB_10Y",
+      "name": "Indonesia government bond 10Y yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "VGB_1Y",
+      "name": "Vietnam govt bond 1Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_2Y",
+      "name": "Vietnam govt bond 2Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_3Y",
+      "name": "Vietnam govt bond 3Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_5Y",
+      "name": "Vietnam govt bond 5Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_7Y",
+      "name": "Vietnam govt bond 7Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_10Y",
+      "name": "Vietnam govt bond 10Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_15Y",
+      "name": "Vietnam govt bond 15Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_20Y",
+      "name": "Vietnam govt bond 20Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "VGB_30Y",
+      "name": "Vietnam govt bond 30Y yield (VBMA)",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-05-08"
+    },
+    {
+      "id": "MY_10Y",
+      "name": "Malaysia MGS 10Y yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "SG_SGS_10Y",
+      "name": "Singapore SGS 10Y yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "C",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "ID_FOREIGN_SBN_SHARE",
+      "name": "Foreign ownership share of Indonesian govt bonds",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "C",
+      "last_date": "2026-06-02"
+    },
+    {
+      "id": "BI_RATE",
+      "name": "Bank Indonesia policy rate (BI-Rate)",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-07-22"
+    },
+    {
+      "id": "INDONIA_ON",
+      "name": "INDONIA overnight rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "D",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "MULTIFINANCE_NPF_GROSS",
+      "name": "Indonesia multifinance gross NPF",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "FINTECH_TWP90",
+      "name": "Indonesia fintech P2P TWP90",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "MULTIFINANCE_NPF_OVER5_COUNT",
+      "name": "Count of Indonesian multifinance cos with gross NPF above 5%",
+      "unit": "count",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "BANK_LAR",
+      "name": "Indonesia banking Loan at Risk (LaR)",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "BANK_NPL_GROSS",
+      "name": "Indonesia banking gross NPL",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "D",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "VN_INTERBANK_ON",
+      "name": "Vietnam interbank overnight rate",
+      "unit": "percent",
+      "cadence": "weekly",
+      "panel": "D",
+      "last_date": "2026-04-14"
+    },
+    {
+      "id": "SOFR",
+      "name": "Secured Overnight Financing Rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "SORA_3M",
+      "name": "3M Compounded SORA",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "USDIDR_SPOT",
+      "name": "USD/IDR spot (BI JISDOR)",
+      "unit": "level",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "USDVND_SPOT",
+      "name": "USD/VND (SBV central rate)",
+      "unit": "level",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "USDIDR_1Y_FWD_PTS",
+      "name": "USD/IDR 1Y forward points",
+      "unit": "points",
+      "cadence": "weekly",
+      "panel": "E",
+      "last_date": "2026-08-12"
+    },
+    {
+      "id": "USDVND_1Y_FWD_PTS",
+      "name": "USD/VND 1Y forward points",
+      "unit": "points",
+      "cadence": "weekly",
+      "panel": "E",
+      "last_date": "2026-08-12"
+    },
+    {
+      "id": "ID_FX_RESERVES",
+      "name": "Indonesia FX reserves",
+      "unit": "usd_bn",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-07-31"
+    },
+    {
+      "id": "VN_FX_RESERVES",
+      "name": "Vietnam FX reserves",
+      "unit": "usd_bn",
+      "cadence": "irregular",
+      "panel": "E",
+      "last_date": "2026-06-18"
+    }
+  ],
+  "derived": [
+    {
+      "id": "QUALITY_SPREAD_CCC_BB",
+      "name": "CCC minus BB quality spread",
+      "unit": "percent",
+      "panel": "A",
+      "last_date": null
+    },
+    {
+      "id": "ASIA_US_HY_YIELD_GAP",
+      "name": "Asia HY yield minus US HY yield",
+      "unit": "percent",
+      "panel": "C",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "ASIA_US_IG_OAS_GAP",
+      "name": "Asia IG minus US IG OAS",
+      "unit": "percent",
+      "panel": "C",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "INDONIA_POLICY_SPREAD",
+      "name": "INDONIA overnight minus BI-Rate",
+      "unit": "percent",
+      "panel": "D",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "IDR_1Y_HEDGE_COST",
+      "name": "USD/IDR 1Y annualised hedge cost",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-14"
+    },
+    {
+      "id": "VND_1Y_HEDGE_COST",
+      "name": "USD/VND 1Y annualised hedge cost",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "IDR_1Y_IMPLIED",
+      "name": "NDF-implied 1Y IDR yield",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "VND_1Y_IMPLIED",
+      "name": "NDF-implied 1Y VND yield",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    },
+    {
+      "id": "VND_CIP_WEDGE",
+      "name": "VND NDF-implied yield minus onshore 10Y VGB",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-17"
+    }
+  ]
+}
