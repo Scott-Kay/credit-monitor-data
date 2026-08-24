@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:16:12+00:00",
+  "generated_at": "2026-08-24T14:20:39+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -64,7 +64,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_3M",
@@ -72,7 +72,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_6M",
@@ -80,7 +80,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_1Y",
@@ -88,7 +88,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_2Y",
@@ -96,7 +96,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_3Y",
@@ -104,7 +104,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_5Y",
@@ -112,7 +112,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_7Y",
@@ -120,7 +120,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_10Y",
@@ -128,7 +128,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_20Y",
@@ -136,7 +136,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "UST_30Y",
@@ -144,7 +144,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-19"
+      "last_date": "2026-08-20"
     },
     {
       "id": "NFCI",
@@ -272,7 +272,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "ASIA_CREDIT_PROXY_YTM",
@@ -280,7 +280,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "INDOGB_10Y",
@@ -416,7 +416,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_6M",
@@ -424,7 +424,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_1Y",
@@ -432,7 +432,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_2Y",
@@ -440,7 +440,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_5Y",
@@ -448,7 +448,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_10Y",
@@ -456,7 +456,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_15Y",
@@ -464,7 +464,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_20Y",
@@ -472,7 +472,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_30Y",
@@ -480,7 +480,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "SG_SGS_50Y",
@@ -488,7 +488,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "ID_FOREIGN_SBN_SHARE",
@@ -512,7 +512,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "D",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "MULTIFINANCE_NPF_GROSS",
@@ -568,7 +568,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "SORA_3M",
@@ -576,7 +576,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "USDIDR_SPOT",
@@ -584,7 +584,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "USDVND_SPOT",
@@ -635,6 +635,118 @@
       "last_date": "2026-08-18"
     },
     {
+      "id": "USDJPY_SPOT",
+      "name": "USD/JPY spot",
+      "unit": "level",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "USDEUR_SPOT",
+      "name": "USD/EUR spot (EUR per USD)",
+      "unit": "level",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "BOJ_RATE",
+      "name": "Bank of Japan policy rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "ECB_RATE",
+      "name": "ECB policy rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "BNM_RATE",
+      "name": "Bank Negara Malaysia policy rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "BOT_RATE",
+      "name": "Bank of Thailand policy rate",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "E",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "ID_CPI_YOY",
+      "name": "Indonesia CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "SG_CPI_YOY",
+      "name": "Singapore CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-04-30"
+    },
+    {
+      "id": "MY_CPI_YOY",
+      "name": "Malaysia CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "TH_CPI_YOY",
+      "name": "Thailand CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "PH_CPI_YOY",
+      "name": "Philippines CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "JP_CPI_YOY",
+      "name": "Japan CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "XM_CPI_YOY",
+      "name": "Euro area CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
+      "id": "US_CPI_YOY",
+      "name": "United States CPI, year-on-year",
+      "unit": "percent",
+      "cadence": "monthly",
+      "panel": "E",
+      "last_date": "2026-06-30"
+    },
+    {
       "id": "USDIDR_1Y_FWD_PTS",
       "name": "USD/IDR 1Y forward points",
       "unit": "points",
@@ -680,7 +792,7 @@
       "name": "Asia HY yield minus US HY yield",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "ASIA_US_IG_OAS_GAP",
@@ -694,14 +806,14 @@
       "name": "INDONIA overnight minus BI-Rate",
       "unit": "percent",
       "panel": "D",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "IDR_1Y_HEDGE_COST",
       "name": "USD/IDR 1Y annualised hedge cost",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "VND_1Y_HEDGE_COST",
@@ -715,28 +827,77 @@
       "name": "NDF-implied 1Y IDR yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-24"
     },
     {
       "id": "VND_1Y_IMPLIED",
       "name": "NDF-implied 1Y VND yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "VND_CIP_WEDGE",
       "name": "VND NDF-implied yield minus onshore 10Y VGB",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
     },
     {
       "id": "ASIA_HY_OVER_CORE",
       "name": "Asia HY over Asia core credit",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-21"
+    },
+    {
+      "id": "ID_REAL_POLICY",
+      "name": "Indonesia real policy rate",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-07-22"
+    },
+    {
+      "id": "JP_REAL_POLICY",
+      "name": "Japan real policy rate",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "XM_REAL_POLICY",
+      "name": "Euro area real policy rate",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "MY_REAL_POLICY",
+      "name": "Malaysia real policy rate",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-18"
+    },
+    {
+      "id": "TH_REAL_POLICY",
+      "name": "Thailand real policy rate",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-13"
+    },
+    {
+      "id": "US_REAL_SOFR",
+      "name": "US real overnight rate (SOFR)",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-21"
+    },
+    {
+      "id": "SG_REAL_SORA_3M",
+      "name": "Singapore real 3M rate (SORA)",
+      "unit": "percent",
+      "panel": "E",
+      "last_date": "2026-08-21"
     }
   ]
 }
