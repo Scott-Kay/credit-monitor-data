@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:24:31+00:00",
+  "generated_at": "2026-09-03T02:04:32+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -64,7 +64,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_3M",
@@ -72,7 +72,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_6M",
@@ -80,7 +80,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_1Y",
@@ -88,7 +88,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_2Y",
@@ -96,7 +96,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_3Y",
@@ -104,7 +104,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_5Y",
@@ -112,7 +112,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_7Y",
@@ -120,7 +120,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_10Y",
@@ -128,7 +128,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_20Y",
@@ -136,7 +136,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "UST_30Y",
@@ -144,7 +144,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-08-31"
+      "last_date": "2026-09-01"
     },
     {
       "id": "NFCI",
@@ -160,7 +160,7 @@
       "unit": "index",
       "cadence": "weekly",
       "panel": "A",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-28"
     },
     {
       "id": "LOAN_DEFAULT_LME_INCL",
@@ -416,7 +416,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-26"
+      "last_date": "2026-09-02"
     },
     {
       "id": "SG_SGS_6M",
@@ -496,7 +496,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_2Y",
@@ -504,7 +504,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_3Y",
@@ -512,7 +512,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_5Y",
@@ -520,7 +520,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_7Y",
@@ -528,7 +528,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_10Y",
@@ -536,7 +536,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_15Y",
@@ -544,7 +544,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_20Y",
@@ -552,7 +552,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_30Y",
@@ -560,7 +560,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "JGB_40Y",
@@ -568,7 +568,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ID_FOREIGN_SBN_SHARE",
@@ -592,7 +592,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "D",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "MULTIFINANCE_NPF_GROSS",
@@ -656,7 +656,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "USDIDR_SPOT",
@@ -886,7 +886,7 @@
       "name": "INDONIA overnight minus BI-Rate",
       "unit": "percent",
       "panel": "D",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "IDR_1Y_HEDGE_COST",
@@ -907,7 +907,7 @@
       "name": "Cost to hedge USD into JPY, 1Y (CIP-implied, ex-basis)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "SGD_1Y_HEDGE_COST_CIP",
@@ -991,7 +991,7 @@
       "name": "Singapore real 3M rate (SORA)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     }
   ]
 }
