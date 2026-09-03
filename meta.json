@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:04:32+00:00",
+  "generated_at": "2026-09-03T17:18:28+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -8,7 +8,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "US_HY_YIELD",
@@ -16,7 +16,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "US_HY_BB_OAS",
@@ -24,7 +24,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "US_HY_B_OAS",
@@ -32,7 +32,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "US_HY_CCC_OAS",
@@ -40,7 +40,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "EU_HY_OAS",
@@ -48,7 +48,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "US_IG_OAS",
@@ -56,7 +56,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "UST_1M",
@@ -256,7 +256,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ASIA_EM_CORP_YIELD",
@@ -264,7 +264,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ASIA_HY_PROXY_YTM",
@@ -424,7 +424,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_1Y",
@@ -432,7 +432,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_2Y",
@@ -440,7 +440,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_5Y",
@@ -448,7 +448,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_10Y",
@@ -456,7 +456,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_15Y",
@@ -464,7 +464,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_20Y",
@@ -472,7 +472,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_30Y",
@@ -480,7 +480,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "SG_SGS_50Y",
@@ -488,7 +488,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "JGB_1Y",
@@ -648,7 +648,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "SORA_3M",
@@ -664,7 +664,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "USDVND_SPOT",
@@ -680,7 +680,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDMYR_SPOT",
@@ -688,7 +688,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDTHB_SPOT",
@@ -696,7 +696,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDPHP_SPOT",
@@ -704,7 +704,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDIDR_SPOT_BIS",
@@ -712,7 +712,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDJPY_SPOT",
@@ -720,7 +720,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "USDEUR_SPOT",
@@ -728,7 +728,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "BOJ_RATE",
@@ -736,7 +736,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "ECB_RATE",
@@ -744,7 +744,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "BNM_RATE",
@@ -752,7 +752,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-28"
     },
     {
       "id": "BOT_RATE",
@@ -760,7 +760,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-27"
     },
     {
       "id": "ID_CPI_YOY",
@@ -865,21 +865,21 @@
       "name": "CCC minus BB quality spread",
       "unit": "percent",
       "panel": "A",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ASIA_US_HY_YIELD_GAP",
       "name": "Asia HY yield minus US HY yield",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ASIA_US_IG_OAS_GAP",
       "name": "Asia IG minus US IG OAS",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "INDONIA_POLICY_SPREAD",
@@ -893,7 +893,7 @@
       "name": "USD/IDR 1Y annualised hedge cost",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "VND_1Y_HEDGE_COST",
@@ -914,28 +914,28 @@
       "name": "Cost to hedge USD into SGD, 1Y (CIP-implied, ex-basis)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "IDR_1Y_IMPLIED",
       "name": "NDF-implied 1Y IDR yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-02"
+      "last_date": "2026-09-03"
     },
     {
       "id": "VND_1Y_IMPLIED",
       "name": "NDF-implied 1Y VND yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "VND_CIP_WEDGE",
       "name": "VND NDF-implied yield minus onshore 10Y VGB",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "ASIA_HY_OVER_CORE",
@@ -956,35 +956,35 @@
       "name": "Japan real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "XM_REAL_POLICY",
       "name": "Euro area real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-25"
+      "last_date": "2026-09-01"
     },
     {
       "id": "MY_REAL_POLICY",
       "name": "Malaysia real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-21"
+      "last_date": "2026-08-28"
     },
     {
       "id": "TH_REAL_POLICY",
       "name": "Thailand real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-20"
+      "last_date": "2026-08-27"
     },
     {
       "id": "US_REAL_SOFR",
       "name": "US real overnight rate (SOFR)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-02"
     },
     {
       "id": "SG_REAL_SORA_3M",
