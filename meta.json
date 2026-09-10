@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:26:23+00:00",
+  "generated_at": "2026-09-10T07:52:08+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -64,7 +64,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_3M",
@@ -72,7 +72,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_6M",
@@ -80,7 +80,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_1Y",
@@ -88,7 +88,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_2Y",
@@ -96,7 +96,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_3Y",
@@ -104,7 +104,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_5Y",
@@ -112,7 +112,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_7Y",
@@ -120,7 +120,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_10Y",
@@ -128,7 +128,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_20Y",
@@ -136,7 +136,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "UST_30Y",
@@ -144,7 +144,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
-      "last_date": "2026-09-04"
+      "last_date": "2026-09-08"
     },
     {
       "id": "NFCI",
@@ -368,7 +368,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "VGB_HNX_1Y_OFR",
@@ -376,7 +376,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "VGB_HNX_3Y_BID",
@@ -384,7 +384,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "VGB_HNX_3Y_OFR",
@@ -392,7 +392,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "VGB_HNX_5Y_BID",
@@ -400,7 +400,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "VGB_HNX_5Y_OFR",
@@ -408,7 +408,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-08-21"
+      "last_date": "2026-09-10"
     },
     {
       "id": "MY_10Y",
@@ -416,7 +416,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "SG_SGS_6M",
@@ -496,7 +496,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_2Y",
@@ -504,7 +504,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_3Y",
@@ -512,7 +512,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_5Y",
@@ -520,7 +520,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_7Y",
@@ -528,7 +528,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_10Y",
@@ -536,7 +536,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_15Y",
@@ -544,7 +544,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_20Y",
@@ -552,7 +552,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_30Y",
@@ -560,7 +560,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "JGB_40Y",
@@ -568,7 +568,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "ID_FOREIGN_SBN_SHARE",
@@ -907,7 +907,7 @@
       "name": "Cost to hedge USD into JPY, 1Y (CIP-implied, ex-basis)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "SGD_1Y_HEDGE_COST_CIP",
