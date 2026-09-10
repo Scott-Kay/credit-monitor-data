@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:52:08+00:00",
+  "generated_at": "2026-09-10T08:06:46+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -656,7 +656,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     },
     {
       "id": "USDIDR_SPOT",
@@ -680,7 +680,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDMYR_SPOT",
@@ -688,7 +688,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDTHB_SPOT",
@@ -696,7 +696,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDPHP_SPOT",
@@ -704,7 +704,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDIDR_SPOT_BIS",
@@ -712,7 +712,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDJPY_SPOT",
@@ -720,7 +720,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "USDEUR_SPOT",
@@ -728,7 +728,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "BOJ_RATE",
@@ -736,7 +736,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "ECB_RATE",
@@ -744,7 +744,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "BNM_RATE",
@@ -752,7 +752,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-28"
+      "last_date": "2026-09-08"
     },
     {
       "id": "BOT_RATE",
@@ -760,7 +760,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-08-27"
+      "last_date": "2026-09-03"
     },
     {
       "id": "ID_CPI_YOY",
@@ -956,28 +956,28 @@
       "name": "Japan real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "XM_REAL_POLICY",
       "name": "Euro area real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-01"
+      "last_date": "2026-09-08"
     },
     {
       "id": "MY_REAL_POLICY",
       "name": "Malaysia real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-28"
+      "last_date": "2026-09-08"
     },
     {
       "id": "TH_REAL_POLICY",
       "name": "Thailand real policy rate",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-08-27"
+      "last_date": "2026-09-03"
     },
     {
       "id": "US_REAL_SOFR",
@@ -991,7 +991,7 @@
       "name": "Singapore real 3M rate (SORA)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-09-08"
+      "last_date": "2026-09-09"
     }
   ]
 }
