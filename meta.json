@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:53:45+00:00",
+  "generated_at": "2026-10-10T06:38:23+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -53,6 +53,46 @@
     {
       "id": "US_IG_OAS",
       "name": "ICE BofA US Corporate (IG) OAS",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-10-08"
+    },
+    {
+      "id": "US_HY_BB_YIELD",
+      "name": "ICE BofA BB US High Yield Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-10-08"
+    },
+    {
+      "id": "US_HY_B_YIELD",
+      "name": "ICE BofA Single-B US High Yield Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-10-08"
+    },
+    {
+      "id": "US_HY_CCC_YIELD",
+      "name": "ICE BofA CCC & Lower US High Yield Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-10-08"
+    },
+    {
+      "id": "EU_HY_YIELD",
+      "name": "ICE BofA Euro High Yield Effective Yield",
+      "unit": "percent",
+      "cadence": "daily",
+      "panel": "A",
+      "last_date": "2026-10-08"
+    },
+    {
+      "id": "US_IG_YIELD",
+      "name": "ICE BofA US Corporate (IG) Effective Yield",
       "unit": "percent",
       "cadence": "daily",
       "panel": "A",
@@ -887,6 +927,13 @@
       "unit": "percent",
       "panel": "D",
       "last_date": "2026-10-09"
+    },
+    {
+      "id": "DL_UNITRANCHE_ALL_IN",
+      "name": "Direct lending unitranche all-in rate",
+      "unit": "percent",
+      "panel": "B",
+      "last_date": "2026-10-08"
     },
     {
       "id": "IDR_1Y_HEDGE_COST",
