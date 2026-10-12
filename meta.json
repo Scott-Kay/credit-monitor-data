@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:38:23+00:00",
+  "generated_at": "2026-10-12T22:12:44+00:00",
   "note": "Public market data mirror. Series are sourced from public statistical releases and are republished here unmodified for charting convenience. No warranty of accuracy or timeliness.",
   "series": [
     {
@@ -312,7 +312,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     },
     {
       "id": "ASIA_CREDIT_PROXY_YTM",
@@ -320,7 +320,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     },
     {
       "id": "INDOGB_10Y",
@@ -408,7 +408,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "VGB_HNX_1Y_OFR",
@@ -416,7 +416,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "VGB_HNX_3Y_BID",
@@ -424,7 +424,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "VGB_HNX_3Y_OFR",
@@ -432,7 +432,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "VGB_HNX_5Y_BID",
@@ -440,7 +440,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "VGB_HNX_5Y_OFR",
@@ -448,7 +448,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-10"
+      "last_date": "2026-10-13"
     },
     {
       "id": "MY_10Y",
@@ -464,7 +464,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_1Y",
@@ -472,7 +472,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_2Y",
@@ -480,7 +480,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_5Y",
@@ -488,7 +488,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_10Y",
@@ -496,7 +496,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_15Y",
@@ -504,7 +504,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_20Y",
@@ -512,7 +512,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_30Y",
@@ -520,7 +520,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "SG_SGS_50Y",
@@ -528,7 +528,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "C",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "JGB_1Y",
@@ -632,7 +632,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "D",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "MULTIFINANCE_NPF_GROSS",
@@ -696,7 +696,7 @@
       "unit": "percent",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     },
     {
       "id": "USDIDR_SPOT",
@@ -704,7 +704,7 @@
       "unit": "level",
       "cadence": "daily",
       "panel": "E",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "USDVND_SPOT",
@@ -912,7 +912,7 @@
       "name": "Asia HY yield minus US HY yield",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     },
     {
       "id": "ASIA_US_IG_OAS_GAP",
@@ -926,7 +926,7 @@
       "name": "INDONIA overnight minus BI-Rate",
       "unit": "percent",
       "panel": "D",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "DL_UNITRANCHE_ALL_IN",
@@ -940,7 +940,7 @@
       "name": "USD/IDR 1Y annualised hedge cost",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "VND_1Y_HEDGE_COST",
@@ -961,14 +961,14 @@
       "name": "Cost to hedge USD into SGD, 1Y (CIP-implied, ex-basis)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "IDR_1Y_IMPLIED",
       "name": "NDF-implied 1Y IDR yield",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-10-09"
+      "last_date": "2026-10-12"
     },
     {
       "id": "VND_1Y_IMPLIED",
@@ -989,7 +989,7 @@
       "name": "Asia HY over Asia core credit",
       "unit": "percent",
       "panel": "C",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     },
     {
       "id": "ID_REAL_POLICY",
@@ -1038,7 +1038,7 @@
       "name": "Singapore real 3M rate (SORA)",
       "unit": "percent",
       "panel": "E",
-      "last_date": "2026-10-08"
+      "last_date": "2026-10-09"
     }
   ]
 }
